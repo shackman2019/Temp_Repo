@@ -1,2 +1,4 @@
 test text
 and a second line
+
+Adding another line
